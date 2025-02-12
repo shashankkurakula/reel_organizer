@@ -1,3 +1,5 @@
+node_modules/
+
 # Miscellaneous
 *.class
 *.log
@@ -43,3 +45,93 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# from chatgpt
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+.build/
+generated_plugin_registrant.dart
+
+# Firebase-related
+lib/firebase_options.dart  # Automatically generated, should not be committed
+
+# Android-related
+android/.gradle/
+android/app/build/
+android/build/
+android/key.properties
+android/local.properties
+
+# iOS-related
+ios/.symlinks/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Pods/
+ios/.generated/
+ios/build/
+
+# Web-related
+web/.firebase/
+web/firebase.json
+
+# Linux & macOS build files
+linux/build/
+macos/build/
+
+# Windows-related
+windows/build/
+windows/Flutter/ephemeral/
+
+# Xcode-specific
+xcuserdata/
+DerivedData/
+*.xcworkspace/
+
+# IDE and system files
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# Flutter build artifacts
+android/app/build/
+android/build/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/build/
+linux/build/
+macos/build/
+windows/build/
+
+# Auto-generated runner files
+linux/runner/
+macos/Runner.xcworkspace/
+macos/Flutter/ephemeral/
+windows/runner/
+web/.firebase/
+web/firebase.json
+
+# IDE and system files
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# Flutter dependency lock files
+pubspec.lock
