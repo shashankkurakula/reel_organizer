@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475502433301",
+    "project_id": "reel-organizer",
+    "storage_bucket": "reel-organizer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475502433301:android:c5ba542712f4eaca2eea1c",
+        "android_client_info": {
+          "package_name": "com.example.reel_organizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpUaywUcctK0BQ2ulJeynvCDrUY19n5dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
